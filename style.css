@@ -1,0 +1,27 @@
+body {
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+#number-guess,
+#result,
+#history {
+    max-width: 300px;
+    margin: 0 auto;
+    align-self: center;
+
+}
+
+#history {
+    margin-top: 16px;
+}
+
+.banner {
+    color: red;
+    font-size: 90px;
+    font-family: sans-serif;
+}
